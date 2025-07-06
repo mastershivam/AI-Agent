@@ -109,6 +109,3 @@ python tests.py
 - Add new functions to the `functions/` directory and register them in `call_function.py`.
 - Update the agent's system prompt in `main.py` to describe new capabilities.
 
-## License
-
-MIT License (add your license here if different)
